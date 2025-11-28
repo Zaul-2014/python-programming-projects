@@ -1,0 +1,5 @@
+The project file is inside 'canvas.py'.
+
+It has a script that draws a square using the
+ 
+turtle library.
